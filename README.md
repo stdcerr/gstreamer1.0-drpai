@@ -75,3 +75,5 @@ ninja to have your plugin built.
 [MIT]: http://www.opensource.org/licenses/mit-license.php or COPYING.MIT
 [LGPL]: http://www.opensource.org/licenses/lgpl-license.php or COPYING.LIB
 [Licensing]: https://gstreamer.freedesktop.org/documentation/application-development/appendix/licensing.html
+
+**This is a test**
